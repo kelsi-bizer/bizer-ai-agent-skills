@@ -30,10 +30,17 @@ What makes these different from prompt collections:
 *(More on the way — skills authored and battle-tested inside the Bizer app
 graduate here.)*
 
-## Install a skill
+## Install
 
-**In any Skills-capable agent** — copy the skill's folder into your skills
-directory, e.g. for Claude Code:
+**Claude Code — the whole library, one command:**
+
+```
+/plugin marketplace add kelsi-bizer/bizer-ai-agent-skills
+/plugin install bizer-skills@bizer-ai-agent-skills
+```
+
+**Any Skills-capable agent** — copy a skill's folder into your skills
+directory:
 
 ```bash
 mkdir -p ~/.claude/skills/fraud-watch
