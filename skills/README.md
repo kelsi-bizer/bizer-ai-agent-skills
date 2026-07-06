@@ -8,6 +8,7 @@ findings so every revision can be judged by transcript.
 | --- | --- | --- |
 | [fraud-watch](fraud-watch/) | Review bank or card transactions from any source and surface possible fraud, the way an analyst would. Calibrated on 2.65M labeled transactions. | 1.0.0 |
 | [goal-setting](goal-setting/) | Coach a business owner through ONE clear goal and a dated plan of action — a seven-step consulting conversation. | 1.0.0 |
+| [dream-list](dream-list/) | Brain-dump every business dream, let it breathe a day (the agent schedules the review), then narrow to a #1 priority. | 1.0.0 |
 
 ## Install
 
