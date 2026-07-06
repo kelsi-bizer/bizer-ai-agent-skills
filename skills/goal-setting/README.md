@@ -40,3 +40,7 @@ criteria.
 ## License
 
 MIT.
+
+---
+
+Part of the [Bizer AI Agent Skills](../../README.md) library — open, research-backed skills from [Bizer](https://gobizer.com). Browse the other skills [here](../README.md).
