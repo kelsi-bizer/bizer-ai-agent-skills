@@ -28,6 +28,7 @@ What makes these different from prompt collections:
 | [**Fraud Watch**](skills/fraud-watch/) | Review bank or card transactions — an uploaded statement, pasted rows, or a connected banking tool — and surface possible fraud, the way an analyst would. Calibrated on 2.65M labeled transactions. | 1.0.0 |
 | [**Goal Setting**](skills/goal-setting/) | Coach a business owner through ONE clear goal and a dated plan of action — the founder's in-person seven-step consulting process as a skill. | 1.0.0 |
 | [**Dream List → Priorities**](skills/dream-list/) | An unfiltered brain-dump of every business dream, then — after a scheduled day to breathe — narrowed against real constraints to a #1 priority. Hands off to Goal Setting. | 1.0.0 |
+| [**Quote → Paid**](skills/quote-to-paid/) | The money side of a job: quote in writing, deposit before work, invoice on completion, and a follow-up cadence the agent schedules itself. | 1.0.0 |
 
 *(More on the way — skills authored and battle-tested inside the Bizer app
 graduate here.)*

@@ -11,13 +11,14 @@
   "plugins": [
     {
       "name": "bizer-skills",
-      "description": "Bizer's open agent skills, research-backed and transcript-evaluated: Fraud Watch (review bank transactions and surface possible fraud), Goal Setting (one clear goal into a dated plan), and Dream List (brain-dump to prioritized roadmap).",
+      "description": "Bizer's open agent skills, research-backed and transcript-evaluated: Fraud Watch (surface possible fraud in bank transactions), Goal Setting (one clear goal into a dated plan), Dream List (brain-dump to prioritized roadmap), and Quote to Paid (get every job paid).",
       "source": "./",
       "strict": false,
       "skills": [
         "./skills/fraud-watch",
         "./skills/goal-setting",
-        "./skills/dream-list"
+        "./skills/dream-list",
+        "./skills/quote-to-paid"
       ]
     }
   ]
