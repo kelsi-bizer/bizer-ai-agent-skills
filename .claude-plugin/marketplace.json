@@ -5,17 +5,18 @@
     "email": "kelsi@gobizer.com"
   },
   "metadata": {
-    "description": "Bizer's open AI agent skills library — portable SKILL.md bundles backed by published research and evaluations.",
+    "description": "Bizer's open AI agent skills library \u2014 portable SKILL.md bundles backed by published research and evaluations.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "bizer-skills",
-      "description": "Bizer's open agent skills, research-backed and transcript-evaluated. Includes Fraud Watch: review bank or card transactions from any source and surface possible fraud, calibrated on 2.65M labeled transactions.",
+      "description": "Bizer's open agent skills, research-backed and transcript-evaluated. Fraud Watch: review bank transactions from any source and surface possible fraud. Goal Setting: coach one clear business goal into a dated plan of action.",
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/fraud-watch"
+        "./skills/fraud-watch",
+        "./skills/goal-setting"
       ]
     }
   ]
