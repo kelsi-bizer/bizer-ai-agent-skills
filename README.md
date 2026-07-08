@@ -29,6 +29,8 @@ What makes these different from prompt collections:
 | [**Goal Setting**](skills/goal-setting/) | Coach a business owner through ONE clear goal and a dated plan of action — the founder's in-person seven-step consulting process as a skill. | 1.0.0 |
 | [**Dream List → Priorities**](skills/dream-list/) | An unfiltered brain-dump of every business dream, then — after a scheduled day to breathe — narrowed against real constraints to a #1 priority. Hands off to Goal Setting. | 1.0.0 |
 | [**Quote → Paid**](skills/quote-to-paid/) | The money side of a job: quote in writing, deposit before work, invoice on completion, and a follow-up cadence the agent schedules itself. | 1.0.0 |
+| [**Lead Triage**](skills/lead-triage/) | Capture, qualify, and route every inbound lead by readiness so none slip through — with a dated next action on each. | 1.0.0 |
+| [**Cash Flow & Runway**](skills/cash-flow/) | "Do I have the cash, and when do I run out?" — money in vs out, burn, runway, safe-to-spend, and a straight "can I afford this?" | 1.0.0 |
 
 *(More on the way — skills authored and battle-tested inside the Bizer app
 graduate here.)*

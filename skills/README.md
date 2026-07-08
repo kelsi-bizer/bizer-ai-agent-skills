@@ -10,6 +10,8 @@ findings so every revision can be judged by transcript.
 | [goal-setting](goal-setting/) | Coach a business owner through ONE clear goal and a dated plan of action — a seven-step consulting conversation. | 1.0.0 |
 | [dream-list](dream-list/) | Brain-dump every business dream, let it breathe a day (the agent schedules the review), then narrow to a #1 priority. | 1.0.0 |
 | [quote-to-paid](quote-to-paid/) | Quote → deposit → invoice → chase: get every job paid, with the agent scheduling the follow-up cadence. | 1.0.0 |
+| [lead-triage](lead-triage/) | Capture, qualify, and route inbound leads by readiness, each with a dated next action. | 1.0.0 |
+| [cash-flow](cash-flow/) | Money in vs out, burn, runway, safe-to-spend, and a straight "can I afford this?" | 1.0.0 |
 
 ## Install
 
